@@ -1,6 +1,6 @@
-# vue-element
+# element-ui-starter
 
-> A Vue.js project
+> A Vue.js project with element-ui
 
 ## Build Setup
 
@@ -20,5 +20,9 @@ npm run unit
 # run all tests
 npm test
 ```
+> 本项目是用vue-cli自动生成webpack-vue项目，再添加element-ui, sass-loader, vue-router而成。
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# Todo
+
+- 添加![vue-resource](https://github.com/vuejs/vue-resource)，解决与后台通信。
+- other
