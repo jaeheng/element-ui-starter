@@ -24,5 +24,5 @@ npm test
 
 # Todo
 
-- 添加![vue-resource](https://github.com/vuejs/vue-resource)，解决与后台通信。
+- 添加[vue-resource](https://github.com/vuejs/vue-resource)，解决与后台通信。
 - other
